@@ -1,0 +1,15 @@
+.container {
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.btn {
+    font-size: 20px;
+    background-color: grey;
+    box-shadow: 2px 2px;
+    cursor: pointer;
+    border-radius: 15px;
+}
